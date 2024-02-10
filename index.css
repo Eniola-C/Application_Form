@@ -24,7 +24,62 @@ label {
 input + label {
   width: auto;
 }
+#first_name {
+  border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+#last_name {
+  border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+#street {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+#city {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+#state {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+#number {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+/* #image {
+border-color: gray;
+  border-radius: 5px;
+  width: 900px;
+  height: 40px;
+} */
 
+#mail {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
+
+#biography {
+border-color: gray;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+}
 .standalone{
     
     padding: 20px;
